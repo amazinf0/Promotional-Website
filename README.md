@@ -9,8 +9,13 @@ Creating a Checklist
 - [x] <del> this is a crossed out item </del>
 ---
 ## To Do List
-- Create One
-- Add more items from paper
-
-
+- [x] <del> Create One </del>
+- [x] <del> Add more items from paper </del>
+- [ ] 
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
 --- 
