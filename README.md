@@ -6,7 +6,7 @@ Websites Project
 Creating a Checklist
 - [ ] example checkbox
 - [x] checked checklist
-- [x] </del> this is a crossed out item </del>
+- [x] <del> this is a crossed out item </del>
 ---
 ## To Do List
 - Create One
