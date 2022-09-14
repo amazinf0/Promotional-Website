@@ -2,6 +2,12 @@
 Websites Project
 
 ## Reminders
+- None Yet
 
-### To Do List
+
+
+## To Do List
+- Create One
+- Add more items from paper
+
 
