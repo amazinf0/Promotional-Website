@@ -44,3 +44,4 @@ Creating a Checklist
 - [ ] example checkbox
 - [x] checked checklist
 - [x] <del> this is a crossed out item </del>
+--- 
